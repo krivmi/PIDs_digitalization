@@ -1,2 +1,2 @@
-# P-IDs_digitalization
+# PIDs_digitalization
 Automatic-digitization-of-engineering-diagrams
